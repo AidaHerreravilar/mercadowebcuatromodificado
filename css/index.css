@@ -1,0 +1,105 @@
+h1 {
+  color: red;
+  font-family: sans-serif;
+  text-align: right;
+  background-color: yellowgreen;
+  border: 1px solid red;
+  padding: 30px;
+  margin: 30px;
+  height: 300%;
+  width: 800px;
+  padding-left: 35px;
+}
+
+h2 {
+  color: rgb(17, 50, 197);
+  font-family: cursive;
+  text-align: center;
+  background-color: yellowgreen;
+  border: 1px solid red;
+  padding: 30px;
+  margin: 30px;
+  height: 300%;
+  width: 800px;
+  padding-left: 35px;
+}
+.contenedor {
+  color: aquamarine;
+  width: 820px;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  padding: 30px;
+  margin: 3px;
+}
+h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: firebrick;
+  background-color: yellowgreen;
+  border: 1px solid red;
+  padding: 30px;
+  margin: 30px;
+  height: 300%;
+  width: 800px;
+  padding-left: 35px;
+}
+img {
+  width: 240px;
+  height: 240px;
+  border: 1px solid red;
+  padding: 30px;
+  margin: 30px;
+  height: 30%;
+  width: 50px;
+  padding-left: 30px;
+}
+
+.ofertas {
+  color: rgb(202, 73, 13);
+  text-align: right;
+  padding: 30px;
+  margin: 30px;
+}
+
+div {
+  background-color: yellowgreen;
+  border: 5px solid red;
+  padding: 30px;
+  margin: 30px;
+  height: 300%;
+  width: 900px;
+  padding-left: 35px;
+}
+
+.divDos {
+  background-color: rgb(41, 139, 224);
+  border: 2px solid aquamarine;
+  margin: 3px;
+  height: 350%;
+  width: 820px;
+  padding: 35px;
+}
+
+p {
+  color: black;
+  text-align: justify;
+  font-size: 25px;
+  height: 15px;
+}
+.precios {
+  color: white;
+  text-align: start;
+  font-size: 15px;
+  height: 20px;
+}
+.precios {
+  color: white;
+  text-align: end;
+  font-size: 15px;
+  height: 20px;
+  border: 1px solid red;
+  height: 350%;
+  width: 200px;
+}
